@@ -126,6 +126,10 @@ On its first run, TensorFlow may need to download MobileNetV2's ImageNet weights
 - **Training cannot find images:** confirm that both `Data_Set/with_mask/` and `Data_Set/without_mask/` exist and contain images.
 - **TensorFlow installation fails:** use Python 3.11 and install from `requirements.txt` in a fresh virtual environment.
 
+## Author
+
+Rahul
+
 ## License
 
 See [LICENSE](LICENSE).
